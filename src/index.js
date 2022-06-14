@@ -5,7 +5,6 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import SectionPatents from "./routes/patents";
 import SectionEntries from "./routes/entries";
 
-document.title = "Demo"
 const root = ReactDOM.createRoot(
   document.getElementById("root")
 );
